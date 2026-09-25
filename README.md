@@ -8,9 +8,12 @@ I am a PhD Candidate focusing on ship behavior analysis, spatial-temporal modeli
 ---
 
 ## Educational Background
-* **Ph.D. Research Fellow** | Norwegian University of Science and Technology (NTNU) *[2024 - June 2027 (Expected)]*
+* **Ph.D. Research Fellow** | Norwegian University of Science and Technology (NTNU) *[2024 - 2027 (Expected)]*
   * **Project:** Ship Behavior Analysis and Modeling Using AIS Data
   * **Advisors:** Guoyuan Li, Houxiang Zhang, and Pero Vidan
+ * **Doctoral Researcher (Ph.D. Coursework & Core Research Completed)** in Mathematics | University Ismail Qemali, Vlora,        AL *[2012 – ]*
+  * **Research Focus:** The Applications of Quasiconformal Mappings
+  * **Status:** Finished doctoral coursework, comprehensive examinations, and initial peer-reviewed publications.
 * **M.Sc. in Mathematics** | University Ismail Qemali, Vlora, AL *[2008 - 2011]*
 * **B.Edu. in Mathematics and Physics** (4-Year Degree) | University Ismail Qemali, Vlora, AL *[1999 - 2003]*
 
@@ -57,5 +60,5 @@ Instructed university-level coursework across core and advanced mathematics, inc
 ---
 
 ## Contact & Links
-* 📧 **Email:** [author@outlook.com](mailto:author@outlook.com)
+* 📧 **Email:** [anila.duka@univlora.edu.al](mailto:anilad@ntnu.no)
 * 🌐 **Personal Web Portfolio:** [anid-hub.github.io](https://github.io)
