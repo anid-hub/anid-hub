@@ -10,7 +10,7 @@ I am a PhD Candidate focusing on ship behavior analysis, spatial-temporal modeli
 ## Educational Background
 * **Ph.D. Research Fellow** | Norwegian University of Science and Technology (NTNU) *[2024 - 2027 (Expected)]*
   * **Project:** Ship Behavior Analysis and Modeling Using AIS Data
-  * **Advisors:** Guoyuan Li, Houxiang Zhang, and Pero Vidan
+
  * **Doctoral Researcher (Ph.D. Coursework & Core Research Completed)** in Mathematics | University Ismail Qemali, Vlora,        AL *[2012 – ]*
   * **Research Focus:** The Applications of Quasiconformal Mappings
   * **Status:** Finished doctoral coursework, comprehensive examinations, and initial peer-reviewed publications.
@@ -28,7 +28,7 @@ Instructed university-level coursework across core and advanced mathematics, inc
 
 ## Awards & Fellowships
 * **PhD Research Fellowship**, NTNU | *2024 - 2027*
-* **ALB Project Support**, Research visit funding at NTNU | *2023*
+
 
 ---
 
